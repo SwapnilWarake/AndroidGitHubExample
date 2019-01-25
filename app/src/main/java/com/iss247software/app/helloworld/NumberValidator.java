@@ -6,7 +6,7 @@ public class NumberValidator {
         return (number % 2 == 0);
     }
 
-    public boolean DEV() {
+    public boolean DEV_1() {
         return true;
     }
 }
